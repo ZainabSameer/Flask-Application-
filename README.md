@@ -9,14 +9,15 @@ The Real Estate Investment API is a Flask application that allows users to acces
 - Method: GET
 - Response: JSON array of all property records.
 
-Get property by ID
-URL: /data/<int:id>
-Method: GET
-Response: JSON object of the specified property or an error message if not found.
-Search for properties
-URL: /data/search
-Method: GET
-Query Parameters:
-location: (optional) Filter properties by location.
-property_name: (optional) Filter properties by name.
-Response: JSON array of matching properties or an error message if none found.
+# Get property by ID
+- URL: /data/<int:id>
+- Method: GET
+- Response: JSON object of the specified property or an error message if not found.
+
+# Search for properties
+- URL: /data/search
+- Method: GET
+- Query Parameters:
+  - location: (optional) Filter properties by location.
+  - property_name: (optional) Filter properties by name.
+- Response: JSON array of matching properties or an error message if none found.
