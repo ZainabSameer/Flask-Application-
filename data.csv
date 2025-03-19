@@ -1,0 +1,11 @@
+ID,Property_Name,Location,Purchase_Price,Current_Value,Monthly_Rent,Property_Tax,Operating_Expenses
+1,Sunnyvale Apartments,Sunnyvale,500000,600000,2500,5000,3000
+2,Lakeside Villas,Orlando,300000,350000,1800,2500,1500
+3,Mountain Retreat,Boulder,700000,800000,3200,7000,4000
+4,Urban Loft,Chicago,450000,500000,2200,4000,2500
+5,Beachfront Condo,Miami,600000,750000,3000,6000,3500
+6,Suburban Family Home,Austin,400000,450000,2300,4000,2000
+7,Historic Brownstone,Boston,800000,950000,3500,8000,4500
+8,Modern Office Space,San Francisco,1,200000,1,400000,0
+9,Rural Farmhouse,Des Moines,250000,300000,1500,2000,1200
+10,City Center Studio,Seattle,350000,400000,2000,3000,1800
