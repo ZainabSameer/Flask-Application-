@@ -8,6 +8,7 @@ The Real Estate Investment API is a Flask application that allows users to acces
 - URL: /data
 - Method: GET
 - Response: JSON array of all property records.
+  # GET http://127.0.0.1:5000/data
 
 # Get property by ID
 - URL: /data/<int:id>
